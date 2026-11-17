@@ -5,7 +5,7 @@ MATA KULIAH :ALGORITMA DAN PEMOGRAMAN LANJUTAN
 # SISTEM MONITORING STOK DAN PENJUALAN KANTIN KAMPUS
 
 ## Deskripsi Program
-Program ini merupakan aplikasi sederhana berbasis bahasa C yang dibuat untuk membantu mengelola stok produk dan transaksi penjualan di kantin kampus.
+Program Sistem Monitoring Stok dan Penjualan Kantin Kampus merupakan aplikasi berbasis bahasa pemrograman C yang digunakan untuk membantu mengelola data barang, stok, dan transaksi penjualan kantin. Program ini memiliki fitur untuk menampilkan, menambah, mengubah, dan mencari data produk, melakukan transaksi pembelian, menambahkan stok, serta membuat laporan penjualan. Dengan adanya program ini, pengelolaan kantin menjadi lebih mudah, praktis, dan teratur.
 
 ## Tujuan
 1. Mempermudah pengelolaan data produk.
@@ -52,7 +52,7 @@ Pengguna juga dapat menambahkan produk baru.
    
 
 ## Kesimpulan
-Program ini dibuat untuk membantu proses pengelolaan stok dan penjualan kantin kampus agar lebih mudah, cepat, dan teratur.
+Program ini dibuat untuk mempermudah pengelolaan stok dan penjualan kantin kampus agar lebih praktis, mudah, dan teratur dengan menggunakan bahasa pemrograman C.
 
 Masukan produk baru
 <img width="959" height="539" alt="Cuplikan layar 2026-11-17 130659" src="https://github.com/user-attachments/assets/2956a188-dc9a-45ab-b0ce-74debd1c55e6" />
