@@ -61,9 +61,11 @@ Beli beberapa produk
 Beli melebihi stok
 <img width="959" height="531" alt="Cuplikan layar 2026-11-17 131127" src="https://github.com/user-attachments/assets/530118f8-2bd3-47f0-b9a4-d756efa146f4" />
 Tampilkan laporan
-<img width="959" height="539" alt="Cuplikan layar 2026-11-17 131308" src="https://github.com/user-attachments/assets/dbb634f3-6c89-4e54-8f87-bb8b57078a66" />
 <img width="959" height="539" alt="Cuplikan layar 2026-11-17 131206" src="https://github.com/user-attachments/assets/a0fd5d56-0d75-474f-9c5a-3236519debc9" />
+Urutkan harga dan penjuallan
+<img width="959" height="539" alt="Cuplikan layar 2026-11-17 131308" src="https://github.com/user-attachments/assets/2278a19d-77c6-4d4e-8a36-5ba1b1d2e5d1" />
 <img width="959" height="539" alt="Cuplikan layar 2026-11-17 131349" src="https://github.com/user-attachments/assets/43a8fe6e-f533-4a80-8130-188decef7697" />
+Cari produk;cek<5
 <img width="959" height="537" alt="Cuplikan layar 2026-11-17 131536" src="https://github.com/user-attachments/assets/9e06cc86-3a59-488f-9954-9e0c24f2474e" />
 
 
